@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j7qg^ydj9%1!u_5ebd%9z5@$3psz6(z*681!-ou9*ju!ditki&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://fruit-tracking-api.onrender.com/']       
 
 
 # Application definition   
